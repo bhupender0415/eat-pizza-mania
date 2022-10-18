@@ -70,7 +70,7 @@ function Footer() {
 
            <div className="footer-last">
              <hr className="line"/>
-                       <h3 >@2021 Copyright by Bhupender Singh. All Rights Reserved.
+                       <h3>@2021 Copyright by Bhupender Singh. All Rights Reserved.
                             </h3>
             </div> 
         </div> 
